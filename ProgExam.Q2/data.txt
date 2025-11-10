@@ -1,0 +1,6 @@
+Total Sales: 870
+Average Sales: 435.0
+Sales over limit: 1
+Sales under limit: 1
+Years Processed: 2
+
